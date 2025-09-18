@@ -1,0 +1,27 @@
+{
+  "name": "El Messiri - Premium Home Builder & Interior Design",
+  "short_name": "El Messiri",
+  "description": "Transform your vision into reality with El Messiri's premium home building and interior design services.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0D1A1A",
+  "theme_color": "#B99863",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["business", "lifestyle", "productivity"],
+  "lang": "en-US",
+  "dir": "ltr"
+}

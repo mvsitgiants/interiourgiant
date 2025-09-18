@@ -1,5 +1,8 @@
 {
-  "name": "Interior Giant - Home Builder & Interior Design",
-  "description": "Crafting bespoke homes and interiors with passion and precision, inspired by elegant and modern design principles.",
+  "name": "El Messiri - Premium Home Builder & Interior Design",
+  "description": "Transform your vision into reality with El Messiri's premium home building and interior design services. Custom homes, renovations, and complete project management.",
+  "keywords": "home builder, interior design, custom homes, renovations, construction, architectural design, home remodeling, luxury homes, project management, El Messiri",
+  "author": "El Messiri",
+  "url": "https://elmessiri.com",
   "requestFramePermissions": []
 }
